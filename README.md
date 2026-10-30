@@ -8,6 +8,12 @@ The site is a Next.js 16 App Router front end with no backend. Visitors browse t
 
 ---
 
+## Screenshots
+
+![Home page of the Maral storefront for VHF/UHF antennas, base stations and kits.](docs/screenshots/home.png)
+
+*Home page of the Maral storefront for VHF/UHF antennas, base stations and kits.*
+
 ## Features
 
 - **Catalog:** 58 products from the published catalog, 31 with a published price. Category pages (`/categoria/[slug]`), product pages (`/producto/[slug]`) and a shop with search and filters (`/tienda`).
