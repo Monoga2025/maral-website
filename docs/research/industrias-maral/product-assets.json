@@ -1,0 +1,665 @@
+[
+  {
+    "sourceUrl": "https://industriasmaral.com/101.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646b40e00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/101.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/101-1.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646b40e00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/101-1.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/103.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646fc0e00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/103.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/103-3.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646ae1000005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/103-3.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/104.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646f61500005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/104.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/106.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946467a0f00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/106.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/119.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646c00e00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/119.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/111.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646fc0e00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/111.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/108.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646a21100005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/108.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/107.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946462a1c00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/107.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/105.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946461e1300005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/105.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/109.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646ec0e00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/109.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/110.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646241600005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/110.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/117.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646bc0e00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/117.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/201.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646641600005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/201.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/206.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946463e3000005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/206.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/207.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646ae1600005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/207.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/305.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946461c2200005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/305.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/308.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646662e00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/308.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/315-PL.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646c64500005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/315-PL.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/K-301A.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946461e3000005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/K-301A.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p224f.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646902100005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1600x1600",
+    "dimensions": {
+      "width": 1600,
+      "height": 1600
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p224f.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p224e2.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646902100005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1600x1600",
+    "dimensions": {
+      "width": 1600,
+      "height": 1600
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p224e2.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p224a.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646902100005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1600x1600",
+    "dimensions": {
+      "width": 1600,
+      "height": 1600
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p224a.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p224b.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646902100005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1600x1600",
+    "dimensions": {
+      "width": 1600,
+      "height": 1600
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p224b.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p224b2.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646902100005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1600x1600",
+    "dimensions": {
+      "width": 1600,
+      "height": 1600
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p224b2.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p136.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646a62200005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1219x1219",
+    "dimensions": {
+      "width": 1219,
+      "height": 1219
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p136.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p144.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646a62200005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1219x1219",
+    "dimensions": {
+      "width": 1219,
+      "height": 1219
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p144.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p150-1.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646a62200005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1219x1219",
+    "dimensions": {
+      "width": 1219,
+      "height": 1219
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p150-1.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p150-3.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646a62200005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1219x1219",
+    "dimensions": {
+      "width": 1219,
+      "height": 1219
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p150-3.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p150-4.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646a62200005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1219x1219",
+    "dimensions": {
+      "width": 1219,
+      "height": 1219
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p150-4.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p801b.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946461e2000005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1038x1038",
+    "dimensions": {
+      "width": 1038,
+      "height": 1038
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p801b.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p805.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646401a00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 943x943",
+    "dimensions": {
+      "width": 943,
+      "height": 943
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p805.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p416-t3.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946461c2900005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 954x954",
+    "dimensions": {
+      "width": 954,
+      "height": 954
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p416-t3.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p416-3.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946466e0e00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 954x954",
+    "dimensions": {
+      "width": 954,
+      "height": 954
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p416-3.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p416-5.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946466c0d00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 954x954",
+    "dimensions": {
+      "width": 954,
+      "height": 954
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p416-5.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p416-7.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646360d00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 954x954",
+    "dimensions": {
+      "width": 954,
+      "height": 954
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p416-7.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p416-t5.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946463c2200005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 954x954",
+    "dimensions": {
+      "width": 954,
+      "height": 954
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p416-t5.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p470-4.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646a20f00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p470-4.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p475-8c.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946465a1200005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p475-8c.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p802.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646601700005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 848x848",
+    "dimensions": {
+      "width": 848,
+      "height": 848
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p802.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p430-3.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646161800005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 954x954",
+    "dimensions": {
+      "width": 954,
+      "height": 954
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p430-3.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p430-7.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646821a00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 954x954",
+    "dimensions": {
+      "width": 954,
+      "height": 954
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p430-7.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p430-12.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646c03400005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 954x954",
+    "dimensions": {
+      "width": 954,
+      "height": 954
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p430-12.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/p803.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646d01e00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 954x954",
+    "dimensions": {
+      "width": 954,
+      "height": 954
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/p803.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/29.png",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946466c1e00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, with alpha, 300x200",
+    "dimensions": {
+      "width": 300,
+      "height": 200
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/29.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/antenna-mobile.jpg",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946461a3b00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1408x768",
+    "dimensions": {
+      "width": 1408,
+      "height": 768
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/antenna-mobile.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/antenna-base.jpg",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646aeb500005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1408x768",
+    "dimensions": {
+      "width": 1408,
+      "height": 768
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/antenna-base.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/handy-radios.jpg",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "52494646588101005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1408x768",
+    "dimensions": {
+      "width": 1408,
+      "height": 768
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/handy-radios.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/accessories.jpg",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "5249464688eb00005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1408x768",
+    "dimensions": {
+      "width": 1408,
+      "height": 768
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/accessories.webp"
+  },
+  {
+    "sourceUrl": "https://industriasmaral.com/connectors.jpg",
+    "httpStatus": 200,
+    "mimeType": "image/webp",
+    "signature": "524946464af701005745425056503858",
+    "fileType": "WEBP; RIFF (little-endian) data, WebP image, EXIF metadata, 1408x768",
+    "dimensions": {
+      "width": 1408,
+      "height": 768
+    },
+    "validation": "passed",
+    "localPath": "/sites/industrias-maral/connectors.webp"
+  }
+]

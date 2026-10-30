@@ -1,0 +1,2687 @@
+{
+  "source": "https://industriasmaral.com",
+  "retrieved": "2026-10-09",
+  "retrievalMethod": "Static parse of the product array embedded in the public homepage bundle; no source JavaScript executed.",
+  "currency": "COP",
+  "priceNote": "Published catalog prices; confirm with Industrias Maral before quoting.",
+  "products": [
+    {
+      "id": "101",
+      "sku": "REF-101",
+      "name": "Antena 1/4 de Onda VHF",
+      "category": "antena-vhf",
+      "brand": "MAXANT",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": "136–174 MHz",
+      "gain": "0 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "Chrome nut",
+      "description": "Antena de cuarto de onda en varilla de acero inoxidable. Construcción robusta con tuerca cromada de lujo. Ideal para instalaciones básicas VHF.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "0 dBi (Unity)"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5 o menor"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Material",
+          "Acero inoxidable"
+        ]
+      ],
+      "image": "/sites/industrias-maral/101.webp",
+      "sourceImage": "https://industriasmaral.com/101.png"
+    },
+    {
+      "id": "101-1",
+      "sku": "REF-101-UHF",
+      "name": "Antena 1/4 de Onda UHF",
+      "category": "antena-uhf",
+      "brand": "MAXANT",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": "430–512 MHz",
+      "gain": "0 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "Chrome nut",
+      "description": "Antena de cuarto de onda para banda UHF. Varilla de acero inoxidable con tuerca de lujo cromada. Solución económica y confiable.",
+      "specs": [
+        [
+          "Frecuencia",
+          "430–512 MHz"
+        ],
+        [
+          "Ganancia",
+          "0 dBi"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5 o menor"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Material",
+          "Acero inoxidable"
+        ]
+      ],
+      "image": "/sites/industrias-maral/101-1.webp",
+      "sourceImage": "https://industriasmaral.com/101-1.png"
+    },
+    {
+      "id": "103",
+      "sku": "REF-103",
+      "name": "Antena Tipo MAXRAD VHF 5/8 — 3 dB",
+      "category": "antena-vhf",
+      "brand": "MAXANT",
+      "price": null,
+      "sale": null,
+      "badge": "MAXANT",
+      "frequency": "136–174 MHz",
+      "gain": "3 dBi",
+      "power": "200W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "Flange spring",
+      "description": "Antena omnidireccional de alta ganancia tipo MAXRAD. Plástico ABS con conectores bronce-latón cromados. Bobina esmaltada y varilla de acero inoxidable de 52 pulgadas.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "3 dBi"
+        ],
+        [
+          "Potencia máx.",
+          "200W"
+        ],
+        [
+          "VSWR",
+          "1:1.5 o menor"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Longitud varilla",
+          "52 pulgadas"
+        ],
+        [
+          "Material cuerpo",
+          "Plástico ABS + bronce-latón"
+        ]
+      ],
+      "image": "/sites/industrias-maral/103.webp",
+      "sourceImage": "https://industriasmaral.com/103.png"
+    },
+    {
+      "id": "103-3",
+      "sku": "REF-103-3",
+      "name": "Antena MAXRAD Antirobo VHF 5/8 — 3 dB",
+      "category": "antena-vhf",
+      "brand": "MAXANT",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": "136–174 MHz",
+      "gain": "3 dBi",
+      "power": "200W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "Spring contact",
+      "description": "Antena VHF antirobo con sistema de contacto por resorte especial. Plástico negro de ingeniería, tuercas cromadas y bobina especial de alambre con esmalte.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "3 dBi"
+        ],
+        [
+          "Potencia máx.",
+          "200W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Sistema contacto",
+          "Resorte especial antirrobo"
+        ],
+        [
+          "Material",
+          "Plástico negro ingeniería"
+        ]
+      ],
+      "image": "/sites/industrias-maral/103-3.webp",
+      "sourceImage": "https://industriasmaral.com/103-3.png"
+    },
+    {
+      "id": "104",
+      "sku": "REF-104",
+      "name": "Antena MAXRAD VHF 5/8 3dB de Caña",
+      "category": "antena-vhf",
+      "brand": "MAXANT",
+      "price": null,
+      "sale": null,
+      "badge": "PREMIUM",
+      "frequency": "136–174 MHz",
+      "gain": "3 dBi",
+      "power": "200W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "Flange contact",
+      "description": "Antena VHF de alta calidad con caña de acero inoxidable y excelente resorte de memoria. Condensadores integrados en la bobina. 8 MHz de ancho de banda.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "3 dBi"
+        ],
+        [
+          "Ancho de banda",
+          "8 MHz"
+        ],
+        [
+          "Potencia máx.",
+          "200W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Construcción",
+          "Caña tubular inoxidable"
+        ],
+        [
+          "Resorte",
+          "Memoria de alta durabilidad"
+        ]
+      ],
+      "image": "/sites/industrias-maral/104.webp",
+      "sourceImage": "https://industriasmaral.com/104.png"
+    },
+    {
+      "id": "106",
+      "sku": "REF-106",
+      "name": "Antena Tipo ANTENEX VHF 5/8 — 3 dB",
+      "category": "antena-vhf",
+      "brand": "ANTENEX",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": "136–174 MHz",
+      "gain": "3 dBi",
+      "power": "200W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "Spring contact",
+      "description": "Antena VHF tipo ANTENEX con plástico negro de ingeniería y bobina esmaltada. Varilla de acero inoxidable de 52 pulgadas con contacto por resorte.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "3 dBi"
+        ],
+        [
+          "Potencia máx.",
+          "200W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Longitud varilla",
+          "52 pulgadas"
+        ]
+      ],
+      "image": "/sites/industrias-maral/106.webp",
+      "sourceImage": "https://industriasmaral.com/106.png"
+    },
+    {
+      "id": "119",
+      "sku": "REF-119",
+      "name": "Antena 5/8 VHF Banda Marina",
+      "category": "antena-vhf",
+      "brand": "MAXANT",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": "136–174 MHz (Marina)",
+      "gain": "3 dBi",
+      "power": "200W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "Soldered contact",
+      "description": "Antena para banda marina VHF con plástico blanco de ingeniería resistente a UV y salinidad. Varilla de acero inoxidable de 55 pulgadas con contacto soldado.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "3 dBi"
+        ],
+        [
+          "Potencia máx.",
+          "200W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Color",
+          "Blanco UV"
+        ],
+        [
+          "Longitud",
+          "55 pulgadas"
+        ]
+      ],
+      "image": "/sites/industrias-maral/119.webp",
+      "sourceImage": "https://industriasmaral.com/119.png"
+    },
+    {
+      "id": "111",
+      "sku": "REF-111",
+      "name": "Antena Tipo MAXRAD UHF 5/8 — 3 dB",
+      "category": "antena-uhf",
+      "brand": "MAXANT",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": "430–512 MHz",
+      "gain": "3 dBi",
+      "power": "200W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "Spring contact",
+      "description": "Antena UHF omnidireccional tipo MAXRAD. Plástico negro de ingeniería, bobina esmaltada. Varilla de acero inoxidable de 14 pulgadas con contacto por resorte.",
+      "specs": [
+        [
+          "Frecuencia",
+          "430–512 MHz"
+        ],
+        [
+          "Ganancia",
+          "3 dBi"
+        ],
+        [
+          "Potencia máx.",
+          "200W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Longitud varilla",
+          "14 pulgadas"
+        ]
+      ],
+      "image": "/sites/industrias-maral/111.webp",
+      "sourceImage": "https://industriasmaral.com/111.png"
+    },
+    {
+      "id": "108",
+      "sku": "REF-108",
+      "name": "Antena Tipo ANTENEX UHF 7/8 — 5 dB",
+      "category": "antena-uhf",
+      "brand": "ANTENEX",
+      "price": null,
+      "sale": null,
+      "badge": "5 dBi",
+      "frequency": "430–512 MHz",
+      "gain": "5 dBi",
+      "power": "200W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "Spring contact",
+      "description": "Antena UHF de alta ganancia tipo ANTENEX con bobina integrada en la varilla para mejor rendimiento. 5 dBi de ganancia real medida.",
+      "specs": [
+        [
+          "Frecuencia",
+          "430–512 MHz"
+        ],
+        [
+          "Ganancia",
+          "5 dBi"
+        ],
+        [
+          "Potencia máx.",
+          "200W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Diseño",
+          "Bobina en varilla"
+        ]
+      ],
+      "image": "/sites/industrias-maral/108.webp",
+      "sourceImage": "https://industriasmaral.com/108.png"
+    },
+    {
+      "id": "107",
+      "sku": "REF-107",
+      "name": "Antena MAXRAD de Caña UHF 7/8 — 5 dB",
+      "category": "antena-uhf",
+      "brand": "MAXANT",
+      "price": null,
+      "sale": null,
+      "badge": "PREMIUM",
+      "frequency": "430–512 MHz",
+      "gain": "5 dBi",
+      "power": "200W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "Flange contact",
+      "description": "Antena UHF de caña de acero inoxidable con excelente resorte de memoria. Bobina integrada en la varilla, condensadores especiales. 8 MHz de ancho de banda.",
+      "specs": [
+        [
+          "Frecuencia",
+          "430–512 MHz"
+        ],
+        [
+          "Ganancia",
+          "5 dBi"
+        ],
+        [
+          "Ancho de banda",
+          "8 MHz"
+        ],
+        [
+          "Potencia máx.",
+          "200W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Sistema contacto",
+          "Flange"
+        ]
+      ],
+      "image": "/sites/industrias-maral/107.webp",
+      "sourceImage": "https://industriasmaral.com/107.png"
+    },
+    {
+      "id": "105",
+      "sku": "REF-105",
+      "name": "Antena Tipo MAXRAD UHF 7/8 — 5 dB",
+      "category": "antena-uhf",
+      "brand": "MAXANT",
+      "price": null,
+      "sale": null,
+      "badge": "5 dBi",
+      "frequency": "430–512 MHz",
+      "gain": "5 dBi",
+      "power": "200W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "Flange contact",
+      "description": "Antena UHF plástico ABS con tuercas cromadas y bobina de bronce. Varilla de alambre de acero inoxidable templado. Sistema de contacto flange. 5/8 de longitud de onda.",
+      "specs": [
+        [
+          "Frecuencia",
+          "430–512 MHz"
+        ],
+        [
+          "Ganancia",
+          "5 dBi"
+        ],
+        [
+          "Potencia máx.",
+          "200W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Polarización",
+          "Vertical"
+        ],
+        [
+          "Longitud onda",
+          "5/8λ"
+        ]
+      ],
+      "image": "/sites/industrias-maral/105.webp",
+      "sourceImage": "https://industriasmaral.com/105.png"
+    },
+    {
+      "id": "109",
+      "sku": "REF-109",
+      "name": "Antena Banda Baja 27–33 MHz",
+      "category": "otras-bandas",
+      "brand": "MAXANT",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": "27–33 MHz",
+      "gain": null,
+      "power": "200W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "Flange contact",
+      "description": "Antena para frecuencias de banda baja 27-33 MHz. Plástico negro de ingeniería, tuercas cromadas y bobina esmaltada. Varilla de acero inoxidable de 52 pulgadas.",
+      "specs": [
+        [
+          "Frecuencia",
+          "27–33 MHz"
+        ],
+        [
+          "Potencia máx.",
+          "200W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Longitud",
+          "52 pulgadas"
+        ]
+      ],
+      "image": "/sites/industrias-maral/109.webp",
+      "sourceImage": "https://industriasmaral.com/109.png"
+    },
+    {
+      "id": "110",
+      "sku": "REF-110",
+      "name": "Antena Banda Aérea / Extensor 118–136 MHz",
+      "category": "otras-bandas",
+      "brand": "MAXANT",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": "118–136 MHz",
+      "gain": "3 dBi",
+      "power": "200W",
+      "vswr": null,
+      "impedance": "50Ω",
+      "connector": "Spring contact",
+      "description": "Antena para banda aérea civil 118-136 MHz con plástico negro de ingeniería. Bobina esmaltada con excelente resorte de memoria. Varilla de 61 pulgadas. 5 MHz de ancho de banda.",
+      "specs": [
+        [
+          "Frecuencia",
+          "118–136 MHz"
+        ],
+        [
+          "Ganancia",
+          "3 dBi"
+        ],
+        [
+          "Ancho de banda",
+          "5 MHz"
+        ],
+        [
+          "Potencia máx.",
+          "200W"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Longitud",
+          "61 pulgadas"
+        ]
+      ],
+      "image": "/sites/industrias-maral/110.webp",
+      "sourceImage": "https://industriasmaral.com/110.png"
+    },
+    {
+      "id": "117",
+      "sku": "REF-117",
+      "name": "Antena 800 MHz",
+      "category": "otras-bandas",
+      "brand": "MAXANT",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": "806–870 MHz",
+      "gain": "3 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "Chrome nut",
+      "description": "Antena de cuarto de onda para banda 800 MHz. Varilla de acero inoxidable con tuerca cromada de lujo. 3 dBi de ganancia.",
+      "specs": [
+        [
+          "Frecuencia",
+          "806–870 MHz"
+        ],
+        [
+          "Ganancia",
+          "3 dBi"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ]
+      ],
+      "image": "/sites/industrias-maral/117.webp",
+      "sourceImage": "https://industriasmaral.com/117.png"
+    },
+    {
+      "id": "201",
+      "sku": "REF-201",
+      "name": "Base de Perforar 3/8\"",
+      "category": "base-perforar",
+      "brand": "MARAL",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": null,
+      "gain": null,
+      "power": null,
+      "vswr": null,
+      "impedance": "50Ω",
+      "connector": "3/8\" thread",
+      "description": "Base hexagonal de bronce-latón 1/2\" para perforación. Placa de acero inoxidable, aislador de Teflón, longitud 12mm. Incluye O-ring de hermeticidad. Peso aprox. 37g.",
+      "specs": [
+        [
+          "Hilo",
+          "3/8\" (hembra)"
+        ],
+        [
+          "Base",
+          "Hexagonal bronce-latón 1/2\""
+        ],
+        [
+          "Placa",
+          "Acero inoxidable"
+        ],
+        [
+          "Aislador",
+          "Teflón"
+        ],
+        [
+          "Longitud",
+          "12mm"
+        ],
+        [
+          "Incluye",
+          "O-ring"
+        ],
+        [
+          "Peso",
+          "~37g"
+        ]
+      ],
+      "image": "/sites/industrias-maral/201.webp",
+      "sourceImage": "https://industriasmaral.com/201.png"
+    },
+    {
+      "id": "203",
+      "sku": "REF-203",
+      "name": "Base de Perforar 3/4\"",
+      "category": "base-perforar",
+      "brand": "MARAL",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": null,
+      "gain": null,
+      "power": null,
+      "vswr": null,
+      "impedance": "50Ω",
+      "connector": "3/4\" thread",
+      "description": "Base roscada de bronce-latón 1 1/8\" para perforación de 3/4\". Aislador de Teflón, longitud 12mm. Incluye O-ring. Apta para mayor espesor de carrocería.",
+      "specs": [
+        [
+          "Hilo",
+          "3/4\""
+        ],
+        [
+          "Tuerca",
+          "1 1/8\" bronce-latón"
+        ],
+        [
+          "Aislador",
+          "Teflón"
+        ],
+        [
+          "Longitud",
+          "12mm"
+        ],
+        [
+          "Incluye",
+          "O-ring"
+        ],
+        [
+          "Peso",
+          "~40g"
+        ]
+      ],
+      "image": "/sites/industrias-maral/203.png",
+      "sourceImage": "https://industriasmaral.com/203.png"
+    },
+    {
+      "id": "205",
+      "sku": "REF-205",
+      "name": "Base de Perforar 3/8\" × 15mm",
+      "category": "base-perforar",
+      "brand": "MARAL",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": null,
+      "gain": null,
+      "power": null,
+      "vswr": null,
+      "impedance": "50Ω",
+      "connector": "3/8\" thread",
+      "description": "Base de perforar especial para carrocerías más gruesas (15mm). Compatible con base ref. 302. Tuerca bronce-latón 1 1/8\", Teflón. Incluye O-ring.",
+      "specs": [
+        [
+          "Hilo",
+          "3/8\""
+        ],
+        [
+          "Longitud especial",
+          "15mm"
+        ],
+        [
+          "Compatible con",
+          "Ref. 302"
+        ],
+        [
+          "Tuerca",
+          "1 1/8\" bronce-latón"
+        ],
+        [
+          "Aislador",
+          "Teflón"
+        ],
+        [
+          "Incluye",
+          "O-ring"
+        ]
+      ],
+      "image": "/sites/industrias-maral/205.png",
+      "sourceImage": "https://industriasmaral.com/205.png"
+    },
+    {
+      "id": "206",
+      "sku": "REF-206",
+      "name": "Base de Perforar Araña 3/8\"",
+      "category": "base-perforar",
+      "brand": "MARAL",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": null,
+      "gain": null,
+      "power": null,
+      "vswr": null,
+      "impedance": "50Ω",
+      "connector": "3/8\" thread",
+      "description": "Base araña con placa galvanizada para reforzar el techo del vehículo. Perforación 3/8\", tuerca bronce-latón 1 1/8\", Teflón. Ideal para vehículos de techo delgado.",
+      "specs": [
+        [
+          "Hilo",
+          "3/8\""
+        ],
+        [
+          "Tuerca",
+          "1 1/8\" bronce-latón"
+        ],
+        [
+          "Placa refuerzo",
+          "Galvanizada"
+        ],
+        [
+          "Aislador",
+          "Teflón"
+        ],
+        [
+          "Longitud",
+          "12mm"
+        ],
+        [
+          "Incluye",
+          "O-ring"
+        ]
+      ],
+      "image": "/sites/industrias-maral/206.webp",
+      "sourceImage": "https://industriasmaral.com/206.png"
+    },
+    {
+      "id": "207",
+      "sku": "REF-207",
+      "name": "Base de Perforar Tipo PL",
+      "category": "base-perforar",
+      "brand": "MARAL",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": null,
+      "gain": null,
+      "power": null,
+      "vswr": null,
+      "impedance": "50Ω",
+      "connector": "PL-259",
+      "description": "Base de perforar con conector tipo PL (SO-239 hembra). Hexagonal bronce-latón 1/2\", placa de acero inoxidable, Teflón, longitud 19mm. Peso aprox. 54g.",
+      "specs": [
+        [
+          "Hilo",
+          "3/8\""
+        ],
+        [
+          "Conector",
+          "PL-259 / SO-239 hembra"
+        ],
+        [
+          "Base",
+          "Hexagonal 1/2\" bronce-latón"
+        ],
+        [
+          "Placa",
+          "Acero inoxidable"
+        ],
+        [
+          "Longitud",
+          "19mm"
+        ],
+        [
+          "Peso",
+          "~54g"
+        ]
+      ],
+      "image": "/sites/industrias-maral/207.webp",
+      "sourceImage": "https://industriasmaral.com/207.png"
+    },
+    {
+      "id": "301",
+      "sku": "REF-301",
+      "name": "Base de Pestaña Cromada",
+      "category": "base-pestana",
+      "brand": "MARAL",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": null,
+      "gain": null,
+      "power": null,
+      "vswr": null,
+      "impedance": "50Ω",
+      "connector": "3/8\" + 1 1/8\" thread",
+      "description": "Base de pestaña de acabado cromado de lujo. Placa y tornillos de acero inoxidable, hilo 1 1/8\", aislador Teflón con empaque impermeabilizante. Instalación en maletero o capó.",
+      "specs": [
+        [
+          "Hilo antena",
+          "1 1/8\" cromado"
+        ],
+        [
+          "Placa",
+          "Acero inoxidable"
+        ],
+        [
+          "Tornillos",
+          "Acero inoxidable"
+        ],
+        [
+          "Aislador",
+          "Teflón"
+        ],
+        [
+          "Empaque",
+          "Impermeabilizante"
+        ],
+        [
+          "Instalación",
+          "Maletero / capó"
+        ]
+      ],
+      "image": "/sites/industrias-maral/301.png",
+      "sourceImage": "https://industriasmaral.com/301.png"
+    },
+    {
+      "id": "301-3",
+      "sku": "REF-301-3",
+      "name": "Base de Pestaña Cromada ATOS",
+      "category": "base-pestana",
+      "brand": "MARAL",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": null,
+      "gain": null,
+      "power": null,
+      "vswr": null,
+      "impedance": "50Ω",
+      "connector": "3/8\" + 1 1/8\" thread",
+      "description": "Base de pestaña ATOS con placa de acero inoxidable calibre 14. Tornillos inoxidables, acabado cromado de lujo, hilo 1 1/8\", Teflón y empaques impermeabilizantes.",
+      "specs": [
+        [
+          "Placa",
+          "Acero inoxidable cal. 14"
+        ],
+        [
+          "Tornillos",
+          "Inoxidable"
+        ],
+        [
+          "Acabado",
+          "Cromado lujo"
+        ],
+        [
+          "Hilo",
+          "1 1/8\""
+        ],
+        [
+          "Aislador",
+          "Teflón"
+        ],
+        [
+          "Empaques",
+          "Impermeabilizante"
+        ]
+      ],
+      "image": "/sites/industrias-maral/301-3.png",
+      "sourceImage": "https://industriasmaral.com/301-3.png"
+    },
+    {
+      "id": "302",
+      "sku": "REF-302",
+      "name": "Base de Pestaña Uña Plástica",
+      "category": "base-pestana",
+      "brand": "MARAL",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": null,
+      "gain": null,
+      "power": null,
+      "vswr": null,
+      "impedance": "50Ω",
+      "connector": "3/8\" thread",
+      "description": "Base de pestaña con uña de plástico negro de ingeniería. Placa y tornillos inoxidables, hilo bronce-latón 1 1/8\", Teflón. Para instalación en maletero o capó.",
+      "specs": [
+        [
+          "Placa",
+          "Acero inoxidable"
+        ],
+        [
+          "Uña",
+          "Plástico negro ingeniería"
+        ],
+        [
+          "Tornillos",
+          "Inoxidable"
+        ],
+        [
+          "Hilo",
+          "1 1/8\" bronce-latón"
+        ],
+        [
+          "Aislador",
+          "Teflón"
+        ]
+      ],
+      "image": "/sites/industrias-maral/302.png",
+      "sourceImage": "https://industriasmaral.com/302.png"
+    },
+    {
+      "id": "305",
+      "sku": "REF-305",
+      "name": "Base de L",
+      "category": "base-pestana",
+      "brand": "MARAL",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": null,
+      "gain": null,
+      "power": null,
+      "vswr": null,
+      "impedance": "50Ω",
+      "connector": "3/8\" thread",
+      "description": "Base tipo L para instalación en laterales del vehículo. Placa y tornillos de acero inoxidable, acabado cromado, hilo 1 1/8\", Teflón y empaques impermeabilizantes.",
+      "specs": [
+        [
+          "Tipo",
+          "Base L (lateral)"
+        ],
+        [
+          "Placa",
+          "Acero inoxidable"
+        ],
+        [
+          "Acabado",
+          "Cromado lujo"
+        ],
+        [
+          "Hilo",
+          "1 1/8\""
+        ],
+        [
+          "Aislador",
+          "Teflón"
+        ]
+      ],
+      "image": "/sites/industrias-maral/305.webp",
+      "sourceImage": "https://industriasmaral.com/305.png"
+    },
+    {
+      "id": "307",
+      "sku": "REF-307",
+      "name": "Base Magnética",
+      "category": "base-pestana",
+      "brand": "MARAL",
+      "price": null,
+      "sale": null,
+      "badge": "POPULAR",
+      "frequency": null,
+      "gain": null,
+      "power": null,
+      "vswr": null,
+      "impedance": "50Ω",
+      "connector": "3/8\" thread",
+      "description": "Base magnética de alta adherencia con imán importado de agarre superior. Acabado cromado, hilo 1 1/8\", Teflón. Se instala en el centro del techo sin perforación.",
+      "specs": [
+        [
+          "Imán",
+          "Importado alta adherencia"
+        ],
+        [
+          "Acabado",
+          "Cromado lujo"
+        ],
+        [
+          "Hilo",
+          "1 1/8\""
+        ],
+        [
+          "Tornillos",
+          "Inoxidable"
+        ],
+        [
+          "Aislador",
+          "Teflón"
+        ],
+        [
+          "Instalación",
+          "Centro del techo"
+        ]
+      ],
+      "image": "/sites/industrias-maral/307.png",
+      "sourceImage": "https://industriasmaral.com/307.png"
+    },
+    {
+      "id": "308",
+      "sku": "REF-308",
+      "name": "Base de Pestaña Tipo PL",
+      "category": "base-pestana",
+      "brand": "MARAL",
+      "price": null,
+      "sale": null,
+      "badge": null,
+      "frequency": null,
+      "gain": null,
+      "power": null,
+      "vswr": null,
+      "impedance": "50Ω",
+      "connector": "PL-259 (SO-239)",
+      "description": "Base de pestaña con conector tipo PL (SO-239). Placa cal. 14 inoxidable, tornillos inox, cromado de lujo, Teflón, hilo 16mm, longitud 22mm, contacto por resorte.",
+      "specs": [
+        [
+          "Placa",
+          "Inoxidable cal. 14"
+        ],
+        [
+          "Conector",
+          "PL-259 / SO-239"
+        ],
+        [
+          "Hilo",
+          "16mm"
+        ],
+        [
+          "Longitud",
+          "22mm"
+        ],
+        [
+          "Contacto",
+          "Resorte"
+        ]
+      ],
+      "image": "/sites/industrias-maral/308.webp",
+      "sourceImage": "https://industriasmaral.com/308.png"
+    },
+    {
+      "id": "315-PL",
+      "sku": "REF-315-PL",
+      "name": "Base con Radiales PL",
+      "category": "base-pestana",
+      "brand": "MARAL",
+      "price": null,
+      "sale": null,
+      "badge": "COMPLETA",
+      "frequency": null,
+      "gain": null,
+      "power": null,
+      "vswr": null,
+      "impedance": "50Ω",
+      "connector": "PL-259 (SO-239)",
+      "description": "Base completa con radiales de acero inoxidable (55cm), placa aluminio y abrazadera galvanizada. Conector PL-259 hembra (SO-239). Solución completa de puesta a tierra.",
+      "specs": [
+        [
+          "Radiales",
+          "55cm acero inoxidable"
+        ],
+        [
+          "Placa",
+          "Aluminio"
+        ],
+        [
+          "Abrazadera",
+          "Galvanizada"
+        ],
+        [
+          "Conector",
+          "SO-239 (PL-259 hembra)"
+        ],
+        [
+          "Aislador",
+          "Teflón cromado lujo"
+        ]
+      ],
+      "image": "/sites/industrias-maral/315-PL.webp",
+      "sourceImage": "https://industriasmaral.com/315-PL.png"
+    },
+    {
+      "id": "K-301A",
+      "sku": "KIT-301A",
+      "name": "Kit: Base Cromada + Cable + Miniu",
+      "category": "kit",
+      "brand": "MARAL",
+      "price": null,
+      "sale": null,
+      "badge": "KIT",
+      "frequency": "136–174 / 430–512 MHz",
+      "gain": null,
+      "power": null,
+      "vswr": null,
+      "impedance": "50Ω",
+      "connector": "Incluido",
+      "description": "Kit completo: Base de pestaña cromada (ref. 301) + cable coaxial + mini-conector. Todo lo necesario para instalar su antena vehicular de manera profesional.",
+      "specs": [
+        [
+          "Incluye",
+          "Base pestaña cromada REF-301"
+        ],
+        [
+          "Incluye",
+          "Cable coaxial"
+        ],
+        [
+          "Incluye",
+          "Mini-conector"
+        ],
+        [
+          "Uso",
+          "Instalación vehicular completa"
+        ]
+      ],
+      "image": "/sites/industrias-maral/K-301A.webp",
+      "sourceImage": "https://industriasmaral.com/K-301A.png"
+    },
+    {
+      "id": "P-224-F",
+      "sku": "P-224-F",
+      "name": "Antena 4 Dipolos VHF 6/9 dB en Línea (137–174 MHz)",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 2327300,
+      "sale": null,
+      "badge": null,
+      "frequency": "137–174 MHz",
+      "gain": "6/9 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena de 4 dipolos VHF en línea con ganancia de 6 a 9 dBi. Línea ESTACIÓN BASE PREMIUM. Cobertura completa de la banda 137-174 MHz.",
+      "specs": [
+        [
+          "Frecuencia",
+          "137–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "6/9 dBi"
+        ],
+        [
+          "Tipo",
+          "4 Dipolos en línea"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Conector",
+          "N hembra"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p224f.webp",
+      "sourceImage": "https://industriasmaral.com/p224f.png"
+    },
+    {
+      "id": "P-224-E2",
+      "sku": "P-224-E2",
+      "name": "Antena 4 Dipolos VHF 6/9 dB en Línea (144–149 MHz)",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 2327300,
+      "sale": null,
+      "badge": null,
+      "frequency": "144–149 MHz",
+      "gain": "6/9 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena de 4 dipolos VHF en línea sintonizada para 144-149 MHz. Ganancia de 6 a 9 dBi. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "144–149 MHz"
+        ],
+        [
+          "Ganancia",
+          "6/9 dBi"
+        ],
+        [
+          "Tipo",
+          "4 Dipolos en línea"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p224e2.webp",
+      "sourceImage": "https://industriasmaral.com/p224e2.png"
+    },
+    {
+      "id": "P-224-A",
+      "sku": "P-224-A",
+      "name": "Antena 4 Dipolos VHF 6/9 dB en Línea (150–161 MHz)",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 2327300,
+      "sale": null,
+      "badge": null,
+      "frequency": "150–161 MHz",
+      "gain": "6/9 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena de 4 dipolos VHF en línea sintonizada para 150-161 MHz. Ganancia de 6 a 9 dBi. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "150–161 MHz"
+        ],
+        [
+          "Ganancia",
+          "6/9 dBi"
+        ],
+        [
+          "Tipo",
+          "4 Dipolos en línea"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p224a.webp",
+      "sourceImage": "https://industriasmaral.com/p224a.png"
+    },
+    {
+      "id": "P-224-B",
+      "sku": "P-224-B",
+      "name": "Antena 4 Dipolos VHF 6/9 dB en Línea (156–161 MHz)",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 2327300,
+      "sale": null,
+      "badge": null,
+      "frequency": "156–161 MHz",
+      "gain": "6/9 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena de 4 dipolos VHF en línea sintonizada para 156-161 MHz (banda marina y civil). Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "156–161 MHz"
+        ],
+        [
+          "Ganancia",
+          "6/9 dBi"
+        ],
+        [
+          "Tipo",
+          "4 Dipolos en línea"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p224b.webp",
+      "sourceImage": "https://industriasmaral.com/p224b.png"
+    },
+    {
+      "id": "P-224-B2",
+      "sku": "P-224-B2",
+      "name": "Antena 4 Dipolos VHF 6/9 dB en Línea (162–167 MHz)",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 2327300,
+      "sale": null,
+      "badge": null,
+      "frequency": "162–167 MHz",
+      "gain": "6/9 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena de 4 dipolos VHF en línea sintonizada para 162-167 MHz. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "162–167 MHz"
+        ],
+        [
+          "Ganancia",
+          "6/9 dBi"
+        ],
+        [
+          "Tipo",
+          "4 Dipolos en línea"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p224b2.webp",
+      "sourceImage": "https://industriasmaral.com/p224b2.png"
+    },
+    {
+      "id": "P-136",
+      "sku": "P-136",
+      "name": "Antena G-7 Hustler Vela VHF 136–144 MHz — 7 dBi",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 580900,
+      "sale": null,
+      "badge": null,
+      "frequency": "136–144 MHz",
+      "gain": "7 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena tipo Hustler Vela G-7 para VHF 136-144 MHz. 7 dBi de ganancia. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–144 MHz"
+        ],
+        [
+          "Ganancia",
+          "7 dBi"
+        ],
+        [
+          "Tipo",
+          "Hustler Vela G-7"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Conector",
+          "N hembra"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p136.webp",
+      "sourceImage": "https://industriasmaral.com/p136.png"
+    },
+    {
+      "id": "P-144",
+      "sku": "P-144",
+      "name": "Antena G-7 Hustler Vela VHF 144–148 MHz — 7 dBi",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 580900,
+      "sale": null,
+      "badge": null,
+      "frequency": "144–148 MHz",
+      "gain": "7 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena tipo Hustler Vela G-7 para VHF 144-148 MHz. 7 dBi de ganancia. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "144–148 MHz"
+        ],
+        [
+          "Ganancia",
+          "7 dBi"
+        ],
+        [
+          "Tipo",
+          "Hustler Vela G-7"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p144.webp",
+      "sourceImage": "https://industriasmaral.com/p144.png"
+    },
+    {
+      "id": "P-150-1",
+      "sku": "P-150-1",
+      "name": "Antena G-7 Hustler Vela VHF 148–154 MHz — 7 dBi",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 580900,
+      "sale": null,
+      "badge": null,
+      "frequency": "148–154 MHz",
+      "gain": "7 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena tipo Hustler Vela G-7 para VHF 148-154 MHz. 7 dBi de ganancia. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "148–154 MHz"
+        ],
+        [
+          "Ganancia",
+          "7 dBi"
+        ],
+        [
+          "Tipo",
+          "Hustler Vela G-7"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p150-1.webp",
+      "sourceImage": "https://industriasmaral.com/p150-1.png"
+    },
+    {
+      "id": "P-150-3",
+      "sku": "P-150-3",
+      "name": "Antena G-7 Hustler Vela VHF 154–155 MHz — 7 dBi",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 580900,
+      "sale": null,
+      "badge": null,
+      "frequency": "154–155 MHz",
+      "gain": "7 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena tipo Hustler Vela G-7 para VHF 154-155 MHz. 7 dBi de ganancia. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "154–155 MHz"
+        ],
+        [
+          "Ganancia",
+          "7 dBi"
+        ],
+        [
+          "Tipo",
+          "Hustler Vela G-7"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p150-3.webp",
+      "sourceImage": "https://industriasmaral.com/p150-3.png"
+    },
+    {
+      "id": "P-150-4",
+      "sku": "P-150-4",
+      "name": "Antena G-7 Hustler Vela VHF 161–167 MHz — 7 dBi",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 580900,
+      "sale": null,
+      "badge": null,
+      "frequency": "161–167 MHz",
+      "gain": "7 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena tipo Hustler Vela G-7 para VHF 161-167 MHz. 7 dBi de ganancia. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "161–167 MHz"
+        ],
+        [
+          "Ganancia",
+          "7 dBi"
+        ],
+        [
+          "Tipo",
+          "Hustler Vela G-7"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p150-4.webp",
+      "sourceImage": "https://industriasmaral.com/p150-4.png"
+    },
+    {
+      "id": "P-801-B",
+      "sku": "P-801-B",
+      "name": "Antena G-6 Tipo Vela VHF 137–160 MHz — 6 dBi",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 250342,
+      "sale": null,
+      "badge": null,
+      "frequency": "137–160 MHz",
+      "gain": "6 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena omnidireccional G-6 tipo vela para VHF 137-160 MHz. Fabricada en aluminio de grado industrial. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "137–160 MHz"
+        ],
+        [
+          "Ganancia",
+          "6 dBi"
+        ],
+        [
+          "Tipo",
+          "Tipo Vela G-6"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Conector",
+          "N hembra"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p801b.webp",
+      "sourceImage": "https://industriasmaral.com/p801b.png"
+    },
+    {
+      "id": "P-805",
+      "sku": "P-805",
+      "name": "Antena G-6 Tipo Vela VHF 160–174 MHz — 6 dBi",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 250342,
+      "sale": null,
+      "badge": null,
+      "frequency": "160–174 MHz",
+      "gain": "6 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena omnidireccional G-6 tipo vela para VHF 160-174 MHz. Fabricada en aluminio de grado industrial. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "160–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "6 dBi"
+        ],
+        [
+          "Tipo",
+          "Tipo Vela G-6"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Conector",
+          "N hembra"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p805.webp",
+      "sourceImage": "https://industriasmaral.com/p805.png"
+    },
+    {
+      "id": "P-810",
+      "sku": "P-810",
+      "name": "Antena Vehicular VHF con Radiales — 3 dBi",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 132830,
+      "sale": null,
+      "badge": null,
+      "frequency": "136–174 MHz",
+      "gain": "3 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena vehicular VHF con radiales para estación base. 3 dBi de ganancia. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "3 dBi"
+        ],
+        [
+          "Tipo",
+          "Vehicular con radiales"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p805.webp",
+      "sourceImage": "https://industriasmaral.com/p805.png"
+    },
+    {
+      "id": "P-415",
+      "sku": "P-415",
+      "name": "Antena Yagi VHF 1 Dipolo Telescópico",
+      "category": "estacion-base",
+      "brand": "MAXANT",
+      "price": 175824,
+      "sale": null,
+      "badge": null,
+      "frequency": "136–174 MHz",
+      "gain": "2 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena Yagi de 1 dipolo telescópico VHF. Ajustable a la frecuencia de operación. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "2 dBi"
+        ],
+        [
+          "Elementos",
+          "1 dipolo"
+        ],
+        [
+          "Tipo",
+          "Telescópica"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Conector",
+          "N hembra"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p416-t3.webp",
+      "sourceImage": "https://industriasmaral.com/p416-t3.png"
+    },
+    {
+      "id": "P-416-3",
+      "sku": "P-416-3",
+      "name": "Antena Yagi VHF 3 Elementos Fijos — 7.1 dBi",
+      "category": "estacion-base",
+      "brand": "MAXANT",
+      "price": 247900,
+      "sale": null,
+      "badge": null,
+      "frequency": "136–174 MHz",
+      "gain": "7.1 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena Yagi de 3 elementos fijos VHF con 7.1 dBi de ganancia. Construcción en aluminio. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "7.1 dBi"
+        ],
+        [
+          "Elementos",
+          "3"
+        ],
+        [
+          "Tipo",
+          "Direccional fija"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Material",
+          "Aluminio"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p416-3.webp",
+      "sourceImage": "https://industriasmaral.com/p416-3.png"
+    },
+    {
+      "id": "P-416-5",
+      "sku": "P-416-5",
+      "name": "Antena Yagi VHF 5 Elementos Fijos — 9.2 dBi",
+      "category": "estacion-base",
+      "brand": "MAXANT",
+      "price": 341140,
+      "sale": null,
+      "badge": null,
+      "frequency": "136–174 MHz",
+      "gain": "9.2 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena Yagi de 5 elementos fijos VHF con 9.2 dBi de ganancia. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "9.2 dBi"
+        ],
+        [
+          "Elementos",
+          "5"
+        ],
+        [
+          "Tipo",
+          "Direccional fija"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Material",
+          "Aluminio"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p416-5.webp",
+      "sourceImage": "https://industriasmaral.com/p416-5.png"
+    },
+    {
+      "id": "P-416-7",
+      "sku": "P-416-7",
+      "name": "Antena Yagi VHF 7 Elementos Fijos — 11 dBi",
+      "category": "estacion-base",
+      "brand": "MAXANT",
+      "price": 440300,
+      "sale": null,
+      "badge": null,
+      "frequency": "136–174 MHz",
+      "gain": "11 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena Yagi de 7 elementos fijos VHF con 11 dBi de ganancia. La mayor ganancia de la línea Yagi fija VHF. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "11 dBi"
+        ],
+        [
+          "Elementos",
+          "7"
+        ],
+        [
+          "Tipo",
+          "Direccional fija"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Material",
+          "Aluminio"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p416-7.webp",
+      "sourceImage": "https://industriasmaral.com/p416-7.png"
+    },
+    {
+      "id": "P-416-T3",
+      "sku": "P-416-T3",
+      "name": "Antena Yagi VHF 3 Elem. Telescópica Tipo Maxrad",
+      "category": "estacion-base",
+      "brand": "MAXANT",
+      "price": 377030,
+      "sale": null,
+      "badge": null,
+      "frequency": "136–174 MHz",
+      "gain": "7.1 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena Yagi telescópica de 3 elementos tipo Maxrad VHF. Ajustable en campo. 7.1 dBi de ganancia. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "7.1 dBi"
+        ],
+        [
+          "Elementos",
+          "3"
+        ],
+        [
+          "Tipo",
+          "Telescópica Tipo Maxrad"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p416-t3.webp",
+      "sourceImage": "https://industriasmaral.com/p416-t3.png"
+    },
+    {
+      "id": "P-416-T5",
+      "sku": "P-416-T5",
+      "name": "Antena Yagi VHF 5 Elem. Telescópica Tipo Maxrad — 7.1 dBi",
+      "category": "estacion-base",
+      "brand": "MAXANT",
+      "price": 516890,
+      "sale": null,
+      "badge": null,
+      "frequency": "136–174 MHz",
+      "gain": "7.1 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena Yagi telescópica de 5 elementos tipo Maxrad VHF. 7.1 dBi de ganancia. Ajustable en campo. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "7.1 dBi"
+        ],
+        [
+          "Elementos",
+          "5"
+        ],
+        [
+          "Tipo",
+          "Telescópica Tipo Maxrad"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p416-t5.webp",
+      "sourceImage": "https://industriasmaral.com/p416-t5.png"
+    },
+    {
+      "id": "P-6333",
+      "sku": "P-6333",
+      "name": "Antena Yagi VHF 3 Elem. Soldada Tipo Tram — 7.1 dBi",
+      "category": "estacion-base",
+      "brand": "MAXANT",
+      "price": 351500,
+      "sale": null,
+      "badge": null,
+      "frequency": "136–174 MHz",
+      "gain": "7.1 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena Yagi soldada de 3 elementos tipo Tram VHF. Construcción robusta y permanente. 7.1 dBi de ganancia. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "136–174 MHz"
+        ],
+        [
+          "Ganancia",
+          "7.1 dBi"
+        ],
+        [
+          "Elementos",
+          "3"
+        ],
+        [
+          "Tipo",
+          "Soldada Tipo Tram"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p416-3.webp",
+      "sourceImage": "https://industriasmaral.com/p416-3.png"
+    },
+    {
+      "id": "P470-4",
+      "sku": "P470-4",
+      "name": "Antena 4 Dipolos UHF 9 dB en Línea (403–470 MHz)",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 1824840,
+      "sale": null,
+      "badge": null,
+      "frequency": "403–470 MHz",
+      "gain": "9 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena de 4 dipolos UHF en línea con 9 dBi de ganancia. Cobertura completa 403-470 MHz. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "403–470 MHz"
+        ],
+        [
+          "Ganancia",
+          "9 dBi"
+        ],
+        [
+          "Tipo",
+          "4 Dipolos en línea"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Conector",
+          "N hembra"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p470-4.webp",
+      "sourceImage": "https://industriasmaral.com/p470-4.png"
+    },
+    {
+      "id": "P475-8C",
+      "sku": "P475-8C",
+      "name": "Antena 8 Dipolos UHF 5/9 dB en Corbatín (403–470 MHz)",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 2595180,
+      "sale": null,
+      "badge": null,
+      "frequency": "403–470 MHz",
+      "gain": "5/9 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena de 8 dipolos UHF en corbatín con ganancia de 5 a 9 dBi. Diseño de máxima cobertura UHF. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "403–470 MHz"
+        ],
+        [
+          "Ganancia",
+          "5/9 dBi"
+        ],
+        [
+          "Tipo",
+          "8 Dipolos en corbatín"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p475-8c.webp",
+      "sourceImage": "https://industriasmaral.com/p475-8c.png"
+    },
+    {
+      "id": "P-802",
+      "sku": "P-802",
+      "name": "Antena G-7 Tipo Vela UHF 430–470 MHz — 6 dBi",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 250342,
+      "sale": null,
+      "badge": null,
+      "frequency": "430–470 MHz",
+      "gain": "6 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena omnidireccional G-7 tipo vela UHF 430-470 MHz. 6 dBi de ganancia. Fabricada en aluminio. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "430–470 MHz"
+        ],
+        [
+          "Ganancia",
+          "6 dBi"
+        ],
+        [
+          "Tipo",
+          "Tipo Vela G-7"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Conector",
+          "N hembra"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p802.webp",
+      "sourceImage": "https://industriasmaral.com/p802.png"
+    },
+    {
+      "id": "P-824",
+      "sku": "P-824",
+      "name": "Antena Vehicular UHF con Radiales 450–470 MHz — 3 dBi",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 138898,
+      "sale": null,
+      "badge": null,
+      "frequency": "450–470 MHz",
+      "gain": "3 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena vehicular UHF con radiales para la banda 450-470 MHz. 3 dBi de ganancia. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "450–470 MHz"
+        ],
+        [
+          "Ganancia",
+          "3 dBi"
+        ],
+        [
+          "Tipo",
+          "Vehicular con radiales"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p802.webp",
+      "sourceImage": "https://industriasmaral.com/p802.png"
+    },
+    {
+      "id": "P-430-3",
+      "sku": "P-430-3",
+      "name": "Antena Yagi UHF 3 Elementos — 7.1 dBi",
+      "category": "estacion-base",
+      "brand": "MAXANT",
+      "price": 284308,
+      "sale": null,
+      "badge": null,
+      "frequency": "430–470 MHz",
+      "gain": "7.1 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena Yagi de 3 elementos UHF con 7.1 dBi de ganancia. Para repetidores y enlaces UHF. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "430–470 MHz"
+        ],
+        [
+          "Ganancia",
+          "7.1 dBi"
+        ],
+        [
+          "Elementos",
+          "3"
+        ],
+        [
+          "Tipo",
+          "Direccional"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Material",
+          "Aluminio"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p430-3.webp",
+      "sourceImage": "https://industriasmaral.com/p430-3.png"
+    },
+    {
+      "id": "P-430-7",
+      "sku": "P-430-7",
+      "name": "Antena Yagi UHF 7 Elementos — 11 dBi",
+      "category": "estacion-base",
+      "brand": "MAXANT",
+      "price": 292300,
+      "sale": null,
+      "badge": null,
+      "frequency": "430–470 MHz",
+      "gain": "11 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena Yagi de 7 elementos UHF con 11 dBi de ganancia. Alta ganancia para enlaces punto a punto UHF. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "430–470 MHz"
+        ],
+        [
+          "Ganancia",
+          "11 dBi"
+        ],
+        [
+          "Elementos",
+          "7"
+        ],
+        [
+          "Tipo",
+          "Direccional"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Material",
+          "Aluminio"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p430-7.webp",
+      "sourceImage": "https://industriasmaral.com/p430-7.png"
+    },
+    {
+      "id": "P-430-12",
+      "sku": "P-430-12",
+      "name": "Antena Yagi UHF 12 Elementos — 13.2 dBi",
+      "category": "estacion-base",
+      "brand": "MAXANT",
+      "price": 362526,
+      "sale": null,
+      "badge": null,
+      "frequency": "430–470 MHz",
+      "gain": "13.2 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena Yagi de 12 elementos UHF con 13.2 dBi de ganancia. La mayor ganancia de la línea Yagi UHF. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "430–470 MHz"
+        ],
+        [
+          "Ganancia",
+          "13.2 dBi"
+        ],
+        [
+          "Elementos",
+          "12"
+        ],
+        [
+          "Tipo",
+          "Direccional"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Material",
+          "Aluminio"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p430-12.webp",
+      "sourceImage": "https://industriasmaral.com/p430-12.png"
+    },
+    {
+      "id": "P-450-1",
+      "sku": "P-450-1",
+      "name": "Antena Dual Band VHF/UHF 144–148 / 430–440 MHz",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 209790,
+      "sale": null,
+      "badge": null,
+      "frequency": "144–148 / 430–440 MHz",
+      "gain": null,
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena dual band VHF/UHF que cubre simultáneamente 144-148 MHz y 430-440 MHz. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia VHF",
+          "144–148 MHz"
+        ],
+        [
+          "Frecuencia UHF",
+          "430–440 MHz"
+        ],
+        [
+          "Tipo",
+          "Dual Band"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ],
+        [
+          "Conector",
+          "N hembra"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p801b.webp",
+      "sourceImage": "https://industriasmaral.com/p801b.png"
+    },
+    {
+      "id": "P460-AE",
+      "sku": "P460-AE",
+      "name": "Antena 4 Dipolos AÉREA 6–9 dB en Línea (118–136 MHz)",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 2582600,
+      "sale": null,
+      "badge": null,
+      "frequency": "118–136 MHz",
+      "gain": "6/9 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena de 4 dipolos para banda aérea civil 118-136 MHz. Ganancia 6 a 9 dBi. Para aeropuertos, helipuertos y control de tráfico. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "118–136 MHz"
+        ],
+        [
+          "Ganancia",
+          "6/9 dBi"
+        ],
+        [
+          "Tipo",
+          "4 Dipolos en línea"
+        ],
+        [
+          "Banda",
+          "Aérea civil"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Conector",
+          "N hembra"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p224f.webp",
+      "sourceImage": "https://industriasmaral.com/p224f.png"
+    },
+    {
+      "id": "P-803",
+      "sku": "P-803",
+      "name": "Antena G-6 Omni Banda Aérea 118–136 MHz — 6 dBi",
+      "category": "estacion-base",
+      "brand": "ALMOTCOM",
+      "price": 410922,
+      "sale": null,
+      "badge": null,
+      "frequency": "118–136 MHz",
+      "gain": "6 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena omnidireccional G-6 para banda aérea civil 118-136 MHz. Aeropuertos, helipuertos y pistas de aviación. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "118–136 MHz"
+        ],
+        [
+          "Ganancia",
+          "6 dBi"
+        ],
+        [
+          "Tipo",
+          "Omnidireccional G-6"
+        ],
+        [
+          "Banda",
+          "Aérea civil"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ],
+        [
+          "Impedancia",
+          "50Ω"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p803.webp",
+      "sourceImage": "https://industriasmaral.com/p803.png"
+    },
+    {
+      "id": "P-419",
+      "sku": "P-419",
+      "name": "Antena Yagi 5 Elem. AÉREA 9.2 dBi (118–136 MHz)",
+      "category": "estacion-base",
+      "brand": "MAXANT",
+      "price": 395900,
+      "sale": null,
+      "badge": null,
+      "frequency": "118–136 MHz",
+      "gain": "9.2 dBi",
+      "power": "150W",
+      "vswr": "1:1.5",
+      "impedance": "50Ω",
+      "connector": "N hembra",
+      "description": "Antena Yagi de 5 elementos para banda aérea civil 118-136 MHz. 9.2 dBi de ganancia. Línea ESTACIÓN BASE PREMIUM.",
+      "specs": [
+        [
+          "Frecuencia",
+          "118–136 MHz"
+        ],
+        [
+          "Ganancia",
+          "9.2 dBi"
+        ],
+        [
+          "Elementos",
+          "5"
+        ],
+        [
+          "Tipo",
+          "Direccional"
+        ],
+        [
+          "Banda",
+          "Aérea civil"
+        ],
+        [
+          "Potencia máx.",
+          "150W"
+        ],
+        [
+          "VSWR",
+          "1:1.5"
+        ]
+      ],
+      "image": "/sites/industrias-maral/p416-5.webp",
+      "sourceImage": "https://industriasmaral.com/p416-5.png"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+/* MARAL v4: tokens compartidos (diseños en docs/design-references/maral-v4). Lo comparten home y tienda. */
+:root{
+  --m-ink:#0a1020;--m-ink-2:#0f172b;--m-line-dark:#1e2a47;
+  --m-blue:#155dfc;--m-blue-2:#3d7bff;--m-wa:#25d366;--m-wa-ink:#0b7a3a;
+  --m-paper:#ffffff;--m-panel:#eef1f6;--m-line:#dde3ec;--m-muted:#5d6b88;--m-text:#0a1020;
+  --m-display:Archivo,Satoshi,Arial,sans-serif;--m-mono:"JetBrains Mono",ui-monospace,monospace;
+  --m-ease:cubic-bezier(.16,1,.3,1);--m-wrap:min(1280px,100% - 48px)
+}
+.m-display{font-family:var(--m-display);font-weight:900;font-stretch:125%;letter-spacing:-.035em;line-height:.92}
+.m-mono{font-family:var(--m-mono);font-stretch:100%;letter-spacing:.02em}
+.m-eyebrow{display:flex;align-items:center;gap:12px;font:500 12px var(--m-mono);letter-spacing:.12em;text-transform:uppercase;color:var(--m-muted)}
+.m-eyebrow:after{content:"";flex:1;height:1px;background:currentColor;opacity:.35}
+.m-wrap{width:var(--m-wrap);margin-inline:auto}
+/* Tarjeta de producto compartida (estilo de los diseños: panel gris, SKU mono, chip azul, precio, Agregar con borde) */
+.m-card{display:flex;flex-direction:column;background:#fff;border:1px solid var(--m-line);min-width:0;transition:border-color .2s,box-shadow .3s var(--m-ease),transform .3s var(--m-ease)}
+.m-card:hover{border-color:#b9c9ea;box-shadow:0 18px 40px rgba(10,16,32,.10);transform:translateY(-3px)}
+.m-card-media{position:relative;display:grid;place-items:center;aspect-ratio:1/1;background:var(--m-panel);overflow:hidden}
+.m-card-media img{width:82%;height:82%;object-fit:contain;mix-blend-mode:multiply;transition:transform .5s var(--m-ease)}
+.m-card-media.zoom img{transform:scale(1.55)}
+.m-card:hover .m-card-media img{transform:scale(1.05)}.m-card:hover .m-card-media.zoom img{transform:scale(1.62)}
+.m-card-media:before,.m-card-media:after{content:"+";position:absolute;font:300 16px/1 var(--m-mono);color:#9aa8c4}
+.m-card-media:before{top:10px;left:12px}.m-card-media:after{bottom:10px;right:12px}
+.m-card-body{display:flex;flex-direction:column;gap:6px;padding:14px 14px 16px;flex:1}
+.m-card-link{color:inherit;text-decoration:none;display:contents}
+.m-card-sku{font:500 12px var(--m-mono);color:var(--m-muted)}
+.m-card-name{margin:0;font:700 16px/1.25 var(--m-display);letter-spacing:-.01em;color:var(--m-text)}
+.m-chip{align-self:flex-start;font:500 11px var(--m-mono);padding:3px 8px;background:#e8efff;color:var(--m-blue);border-radius:3px}
+.m-card-price{margin-top:auto;padding-top:6px;font:800 20px var(--m-display);font-stretch:110%;color:var(--m-text)}
+.m-card-price.quote{font-size:15px;font-weight:700;color:var(--m-blue)}
+.m-card-add{display:flex;align-items:center;justify-content:center;gap:8px;min-height:40px;margin-top:8px;border:1.5px solid var(--m-ink);background:#fff;color:var(--m-ink);font:700 14px var(--m-display);cursor:pointer;transition:background .2s,color .2s}
+.m-card-add:hover{background:var(--m-ink);color:#fff}
+.m-card-add.done{background:var(--m-blue);border-color:var(--m-blue);color:#fff}
